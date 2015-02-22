@@ -1,0 +1,13 @@
+h1{
+	color: red;
+}
+body{
+	background-color: lightgreen
+}
+.center{
+	width: 600px;
+	margin: 0 auto;
+}
+p{
+	font-family: arial
+}
